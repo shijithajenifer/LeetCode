@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shijithajenifer/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
