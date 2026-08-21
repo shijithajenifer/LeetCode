@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shijithajenifer/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/shijithajenifer/LeetCode/tree/master/1539-kth-missing-positive-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
