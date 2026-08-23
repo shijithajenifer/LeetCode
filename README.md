@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shijithajenifer/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shijithajenifer/LeetCode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shijithajenifer/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
