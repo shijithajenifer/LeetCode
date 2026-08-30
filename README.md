@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shijithajenifer/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shijithajenifer/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shijithajenifer/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
