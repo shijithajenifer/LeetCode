@@ -155,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/shijithajenifer/LeetCode/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/shijithajenifer/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/shijithajenifer/LeetCode/tree/master/0619-biggest-single-number) |
+| [1251-average-selling-price](https://github.com/shijithajenifer/LeetCode/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
