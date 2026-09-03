@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shijithajenifer/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/shijithajenifer/LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shijithajenifer/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
