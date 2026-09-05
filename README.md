@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1539-kth-missing-positive-number](https://github.com/shijithajenifer/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
