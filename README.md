@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/shijithajenifer/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1089-duplicate-zeros](https://github.com/shijithajenifer/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1539-kth-missing-positive-number](https://github.com/shijithajenifer/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
