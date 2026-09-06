@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/shijithajenifer/LeetCode/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shijithajenifer/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shijithajenifer/LeetCode/tree/master/1089-duplicate-zeros) |
