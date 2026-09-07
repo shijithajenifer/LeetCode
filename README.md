@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/shijithajenifer/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/shijithajenifer/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1991-find-the-middle-index-in-array](https://github.com/shijithajenifer/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/shijithajenifer/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
