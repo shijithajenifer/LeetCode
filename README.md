@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/shijithajenifer/LeetCode/tree/master/0705-design-hashset) |
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Simulation
 |  |
 | ------- |
