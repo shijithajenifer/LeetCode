@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/shijithajenifer/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shijithajenifer/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shijithajenifer/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
