@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shijithajenifer/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/shijithajenifer/LeetCode/tree/master/0705-design-hashset) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shijithajenifer/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shijithajenifer/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
