@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shijithajenifer/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/shijithajenifer/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shijithajenifer/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shijithajenifer/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shijithajenifer/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shijithajenifer/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shijithajenifer/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shijithajenifer/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
