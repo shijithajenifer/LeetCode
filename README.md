@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shijithajenifer/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
