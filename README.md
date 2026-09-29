@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shijithajenifer/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shijithajenifer/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shijithajenifer/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shijithajenifer/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shijithajenifer/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shijithajenifer/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shijithajenifer/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shijithajenifer/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shijithajenifer/LeetCode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/shijithajenifer/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
