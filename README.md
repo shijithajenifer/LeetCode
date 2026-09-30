@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/shijithajenifer/LeetCode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/shijithajenifer/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/shijithajenifer/LeetCode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/shijithajenifer/LeetCode/tree/master/0585-investments-in-2016) |
 | [0619-biggest-single-number](https://github.com/shijithajenifer/LeetCode/tree/master/0619-biggest-single-number) |
 | [1251-average-selling-price](https://github.com/shijithajenifer/LeetCode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shijithajenifer/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
