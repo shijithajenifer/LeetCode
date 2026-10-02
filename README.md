@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shijithajenifer/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/shijithajenifer/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/shijithajenifer/LeetCode/tree/master/0705-design-hashset) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shijithajenifer/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2465-number-of-distinct-averages](https://github.com/shijithajenifer/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## String
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shijithajenifer/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/shijithajenifer/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/shijithajenifer/LeetCode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shijithajenifer/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/shijithajenifer/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
