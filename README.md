@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shijithajenifer/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/shijithajenifer/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/shijithajenifer/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/shijithajenifer/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shijithajenifer/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shijithajenifer/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Number Theory
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shijithajenifer/LeetCode/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shijithajenifer/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shijithajenifer/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
