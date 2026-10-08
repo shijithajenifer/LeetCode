@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shijithajenifer/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/shijithajenifer/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
