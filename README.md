@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shijithajenifer/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shijithajenifer/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
