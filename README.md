@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shijithajenifer/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/shijithajenifer/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shijithajenifer/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shijithajenifer/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shijithajenifer/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shijithajenifer/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shijithajenifer/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shijithajenifer/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shijithajenifer/LeetCode/tree/master/0049-group-anagrams) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shijithajenifer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shijithajenifer/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shijithajenifer/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shijithajenifer/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
