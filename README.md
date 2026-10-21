@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shijithajenifer/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shijithajenifer/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shijithajenifer/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shijithajenifer/LeetCode/tree/master/0412-fizz-buzz) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/shijithajenifer/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
@@ -407,4 +410,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
