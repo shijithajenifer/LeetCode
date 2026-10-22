@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/shijithajenifer/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shijithajenifer/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shijithajenifer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
@@ -386,11 +387,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
 ## Bracket Sequences
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
 ## Enumeration
 |  |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
