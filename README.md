@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/shijithajenifer/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shijithajenifer/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/shijithajenifer/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/shijithajenifer/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/shijithajenifer/LeetCode/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shijithajenifer/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/shijithajenifer/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/shijithajenifer/LeetCode/tree/master/0941-valid-mountain-array) |
