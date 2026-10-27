@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shijithajenifer/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/shijithajenifer/LeetCode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0866-prime-palindrome](https://github.com/shijithajenifer/LeetCode/tree/master/0866-prime-palindrome) |
 | [1154-day-of-the-year](https://github.com/shijithajenifer/LeetCode/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shijithajenifer/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shijithajenifer/LeetCode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/shijithajenifer/LeetCode/tree/master/0866-prime-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/shijithajenifer/LeetCode/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
