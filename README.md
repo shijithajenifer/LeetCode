@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shijithajenifer/LeetCode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/shijithajenifer/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/shijithajenifer/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shijithajenifer/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shijithajenifer/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shijithajenifer/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shijithajenifer/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shijithajenifer/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shijithajenifer/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/shijithajenifer/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shijithajenifer/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
