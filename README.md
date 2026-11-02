@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shijithajenifer/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shijithajenifer/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shijithajenifer/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shijithajenifer/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shijithajenifer/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shijithajenifer/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shijithajenifer/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/shijithajenifer/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shijithajenifer/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/shijithajenifer/LeetCode/tree/master/0645-set-mismatch) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shijithajenifer/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shijithajenifer/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/shijithajenifer/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shijithajenifer/LeetCode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shijithajenifer/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/shijithajenifer/LeetCode/tree/master/0463-island-perimeter) |
 ## Bracket Sequences
 |  |
