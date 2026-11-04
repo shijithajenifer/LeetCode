@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shijithajenifer/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/shijithajenifer/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/shijithajenifer/LeetCode/tree/master/2235-add-two-integers) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/shijithajenifer/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shijithajenifer/LeetCode/tree/master/0204-count-primes) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/shijithajenifer/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Primality Test
 |  |
 | ------- |
