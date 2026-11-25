@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shijithajenifer/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shijithajenifer/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shijithajenifer/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shijithajenifer/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/shijithajenifer/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/shijithajenifer/LeetCode/tree/master/0645-set-mismatch) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shijithajenifer/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/shijithajenifer/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shijithajenifer/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shijithajenifer/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shijithajenifer/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shijithajenifer/LeetCode/tree/master/0412-fizz-buzz) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/shijithajenifer/LeetCode/tree/master/0912-sort-an-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/shijithajenifer/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shijithajenifer/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shijithajenifer/LeetCode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
