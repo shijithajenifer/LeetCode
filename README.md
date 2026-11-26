@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shijithajenifer/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shijithajenifer/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3019-number-of-changing-keys](https://github.com/shijithajenifer/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/shijithajenifer/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
